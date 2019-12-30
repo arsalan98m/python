@@ -1,0 +1,3 @@
+Creating new fileThis text is written in append mode.
+
+This text is written in append mode.
