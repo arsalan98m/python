@@ -1,0 +1,100 @@
+Different approaches in python:
+Linear Programming (agar mujhe hello world dus bar print karna hai toh main dus bar print ki 
+		     statement likhonga)
+
+Structural programming( Line by Line Execution, Control flow, Conditions)
+Object Oriented Programming
+
+
+Object Oriented Programming is an software engineering approach to build system softwares.
+Object Oriented Programming use the concept of object and classes to model the real world entities.
+
+Python is a multi-paradigm programming language. Meaning, it supports different programming approach.
+
+Methods:
+(Methods are functions defined inside the body of a class.
+ They are used to define the behaviors of an object.)
+
+Attribute:
+(Attributes are the properties of the object.)
+
+
+The functionality which we insert in object with in the class is called method.(Functionality)
+Koi bhi object jo koi action perform kar saky toh woh usky methods kehlaty hain.
+
+Attributes usky properties usky values hoti hain kuch 
+example man ek object hai uski property hai name or uksi value hai arsalan 
+isi tarah uska color usky baloon ka color uski height uska weight 
+obj ki koi bhi khasiyat toh usy hum kehty hain attributes
+
+Iski zaroorat kun pesh ayi?
+(Agar main kahoon dunya main jitny objects hain un sab ky actions or attributes ap yaad kar lyn kya yaad kar sakty 
+hain nahi buhat mushkil hojata hai toh real world main bhi aisy tamam object jinky methods or properties similar hoty 
+hain unko utha kar hum ek class main rakh dety hain. Jab bhi main us class ka naam lunga toh us class sy jo bhi 
+properties or methods belong kar ty hain woh call hojayegi.)
+
+(Agar main Animal ki class banata hoon or us class main koi method update karta hoon
+toh us class sy jitny bhi log belong karty hain ya object belong karty
+hain woh sary k sary update ho jayengy.)
+
+Agar main kahoon ky dunya main jitny bhi objects hain
+There are four principles of paradigm:
+(1) Functional:
+	Where all "computations are done by applying (Called functions)".
+ek function define kya kisi bhi area main or kahin par bhi usko call kar liya toh ultimately apka particular
+task execute ho jayega this is functional programming.
+
+(2) Imperative:
+	Otherwise known as 'procedural programming' this is a top down paradigm involving the  "executaion of 
+	computational steps in an order governed by control structures"
+Line by line executaion
+
+(3) Logic:
+	Based Upon "axioms, inferences, rules and quries."
+
+(4) Object Oriented Programming:
+	 To "model human interaction with real world phenomena" and their behavior as classes and methods.
+
+
+Pillar of OOP:
+Four Pillars of OOP:
+1. Inhertance (Viraasat) Parent to child transfer
+	(Apki ankh ap ky dada sy milti hain Apki awaz apky abba sy milti hai toh yeh cheez inherit hui 
+	 Apky Parent sy. Pardada sy Dada main Dada sy walid main phir app main.
+	 Inheritance top to bottom - Parent sy child main)
+
+2. Encapsulation (Private, Public)
+	(Apni class ky kuch methods ya attribute ko private kardena yani koi bhi banda us class ko access nahi kar sakta)
+
+3. Abstraction (Uncompute)
+		(Abstraction means hiding the complexity and only showing the essential features
+		 So in a way, Abstraction means hiding the real implementation and we as a user
+  		 knowing only how to use it.)
+
+		(Aisi koi bhi class jiska directly instance ya object na ban sakty toh woh kelati hain abstraction)
+		(Abstract class k methods or attributes ko access karny ky liyeh child class banaty hain toh
+		 Inheritance ky baad isko access kar sakty hain)
+
+
+4. Polymorphisim (Ek sy ziyada) (Poly means many morphisms mean form)
+	(Aisa koi bhi Operator aisa koi bhi method jo aik sy ziyada kaam perform kary tu usy hum kahty hain
+	polymorphism)
+	(Example ' + ' Ka Operator Agar main String ky sath lagata hoon toh Concatenation Agar main 
+	 Integer ky sath lagata hoon Addition Agar do List ky darmiyan + ka operator lagyen toh  woh
+	 do list ko apas main extend kar dy ta hai)
+
+Polymorphism types:
+1.Method Overloading (Same class main koi bhi function ek sy ziyada time banayien
+                      Rule 1: Same Class
+		      Rule 2: Function ka naam same hai lekin do teen chaar ya 10 dafa bana huwa hai
+		      Rule 3: Number of Parameters Ziada hongy )
+
+2.Method Overriding (Overriding method allows a user to override the parent class method
+		     The name of the method must be same in the parent class and child class.)
+		    (do classes hain parent or child dono main same method hai to child wala
+		     parent ko override kardega child ka method run hoga)
+
+Leading Space Shrow main __
+Trailing space End man __
+__init__ Constructor(call hoty huy is class methods or attributes ko initialize kar dyta kisi  object ky andar)
+self Har object ko individually manage karta hai memory main
