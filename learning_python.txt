@@ -1,3 +1,0 @@
-learned python lists
-learned python dictionaries
-learned python classes

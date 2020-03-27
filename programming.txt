@@ -1,5 +1,0 @@
-I love programming.
-I love creating new things.
-
-i love also finding meaning in large datasets.
-i love creating apps that can run in browser.
