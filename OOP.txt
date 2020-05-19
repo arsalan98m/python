@@ -14,10 +14,19 @@ Python is a multi-paradigm programming language. Meaning, it supports different 
 Methods:
 (Methods are functions defined inside the body of a class.
  They are used to define the behaviors of an object.)
+like car ek object hai --
+1. car kitny kilometer ky sath chal sakti hai
+2. car main tank hota hai
+3. car ki description
+
+ 
 
 Attribute:
 (Attributes are the properties of the object.)
-
+jasiy:
+1. car ka color
+2. car ka model
+3. car ka name
 
 The functionality which we insert in object with in the class is called method.(Functionality)
 Koi bhi object jo koi action perform kar saky toh woh usky methods kehlaty hain.
