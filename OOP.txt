@@ -14,10 +14,19 @@ Python is a multi-paradigm programming language. Meaning, it supports different 
 Methods:
 (Methods are functions defined inside the body of a class.
  They are used to define the behaviors of an object.)
+like car ek object hai --
+1. car kitny kilometer ky sath chal sakti hai
+2. car main tank hota hai
+3. car ki description
+
+ 
 
 Attribute:
 (Attributes are the properties of the object.)
-
+jasiy:
+1. car ka color
+2. car ka model
+3. car ka name
 
 The functionality which we insert in object with in the class is called method.(Functionality)
 Koi bhi object jo koi action perform kar saky toh woh usky methods kehlaty hain.
@@ -37,7 +46,7 @@ properties or methods belong kar ty hain woh call hojayegi.)
 toh us class sy jitny bhi log belong karty hain ya object belong karty
 hain woh sary k sary update ho jayengy.)
 
-Agar main kahoon ky dunya main jitny bhi objects hain
+
 There are four principles of paradigm:
 (1) Functional:
 	Where all "computations are done by applying (Called functions)".
@@ -64,6 +73,10 @@ Four Pillars of OOP:
 	 Inheritance top to bottom - Parent sy child main)
 
 2. Encapsulation (Private, Public)
+	(Encapsulation hamary methods or attributes ko ek sath encapsulate kardeta hai. or encapsulation hum
+	 security purpose ky liyeh bhi istimaal karty hain taky outside the world usko koi istimaal na kar saky
+	  sirf class ky andar use ho sakty hai lekin class ky bahar use nhi ho sakta. ismy teen cheezy hai
+	   public, private, or protected.)
 	(Apni class ky kuch methods ya attribute ko private kardena yani koi bhi banda us class ko access nahi kar sakta)
 
 3. Abstraction (Uncompute)
