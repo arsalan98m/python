@@ -1,0 +1,2 @@
+This file doesnt exist
+THis text is written in append mode.
